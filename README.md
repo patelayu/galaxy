@@ -1,16 +1,4 @@
-# galaxy1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230412_125448](https://user-images.githubusercontent.com/121868302/231385478-994a8cdf-cde4-421e-91bc-7ccd633f7d20.png)
+![Screenshot_20230412_125459](https://user-images.githubusercontent.com/121868302/231385484-f1e70e65-1b9a-4db0-8bf9-edce7a7affcc.png)
+![Screenshot_20230412_125511](https://user-images.githubusercontent.com/121868302/231385493-5c7f3dcb-d822-4eb2-9e2f-53d9f777f0c8.png)
+![Screenshot_20230412_125526](https://user-images.githubusercontent.com/121868302/231385510-0002e996-91bd-4e16-8ecb-7e94cbb562f9.png)
